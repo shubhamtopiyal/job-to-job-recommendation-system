@@ -30,6 +30,6 @@ Clone the repo and install the dependencies:
 
 ```bash
 git clone https://github.com/your-username/job-recommender.git
-cd job-recommender
+cd job-to-job-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
