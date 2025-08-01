@@ -33,3 +33,19 @@ git clone https://github.com/shubhamtopiyal/job-to-job-recommendation-system.git
 cd job-to-job-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📂 Project Structure:
+bash
+├── app.py                  # Streamlit application
+├── jobs_df.pickle          # Pickled job dataset with processed columns
+├── similarity.pickle       # Cosine similarity matrix (stemming)
+├── similarity_lem.pickle   # Cosine similarity matrix (lemmatization)
+├── requirements.txt        # Python dependencies
+
+**🌐 Live Demo:**
+- Try the app here 👉 Deployed Link
+
+**📧 Contact:**
+Developed by Shubham Topiyal
+📨 shubhamtopiyal0786@gmail.com
+📌 Feel free to reach out for feedback or collaboration!
