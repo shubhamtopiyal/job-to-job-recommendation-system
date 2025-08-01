@@ -34,6 +34,7 @@ cd job-to-job-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
 
+## 📦 Installation & Usage
 ## 📂 Project Structure:
 bash
 ├── app.py                  # Streamlit application
